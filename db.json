@@ -1,0 +1,112 @@
+{
+  "tournaments" : [
+  {
+    "id": 1,
+    "prize": 25000,
+    "title": "ZOMBIE LAND Müsabiqəsi",
+    "status": "həftəlik",
+    "place_count": 3,
+    "endDate": "2024-12-31T23:59:59Z",
+    "content": "Excepteur sint occaecat atat non proident, sunt in culpa qui officia deserunt mollit anim id est labor umLor em ipsum dolor amet consteur adiscing Duis elentum solliciin is yaugue euismods Nulla ullaorper. Ipsum is simply dummy text of printing and typeetting industry. Lorem Ipsum has been the industry's standsaard sipiscing Duis elementum solliciin. Duis aute irure dolor in repderit in voluptate velit esse cillum dolorliq commodo consequat.",
+    "quote": "Duis elentum solliciin is yaugue euismods Nulla ullaorper. Ipsum is simply dummy text of printing and typeetting industry.",
+    "promo": "https://www.youtube.com/watch?v=r6LxWRdXaJs",
+    "sponsor": "FOXTIE MAX",
+    "sponsor_logo": "https://themedox.com/mykd/wp-content/uploads/2023/10/tournament_thumb01.png",
+    "live_time": "10:00 - 15:00",
+    "live_link": "https://www.youtube.com/watch?v=r6LxWRdXaJs",
+    "isOnline": true,
+    "top_three_players": [
+      {
+        "id": 1,
+        "image": "https://themedox.com/mykd/wp-content/uploads/2023/10/team02.png",
+        "username": "Alley Boss",
+        "wins": 305
+      },
+      {
+        "id": 2,
+        "image": "https://themedox.com/mykd/wp-content/uploads/2023/10/team01.png",
+        "username": "Black Ninja",
+        "wins": 219
+      },
+      {
+        "id": 3,
+        "image": "https://themedox.com/mykd/wp-content/uploads/2023/10/team03.png",
+        "username": "Gamezer",
+        "wins": 198
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "prize": 50000,
+    "title": "ArcheAge Müsabiqəsi",
+    "status": "uğurlu kard",
+    "place_count": 10,
+    "endDate": "2025-05-31T23:59:59Z",
+    "content": "Excepteur sint occaecat atat non proident, sunt in culpa qui officia deserunt mollit anim id est labor umLor em ipsum dolor amet consteur adiscing Duis elentum solliciin is yaugue euismods Nulla ullaorper. Ipsum is simply dummy text of printing and typeetting industry. Lorem Ipsum has been the industry's standsaard sipiscing Duis elementum solliciin. Duis aute irure dolor in repderit in voluptate velit esse cillum dolorliq commodo consequat.",
+    "quote": "Duis elentum solliciin is yaugue euismods Nulla ullaorper. Ipsum is simply dummy text of printing and typeetting industry.",
+    "promo": "https://www.youtube.com/watch?v=r6LxWRdXaJs",
+    "sponsor": "HATLAX TM.",
+    "sponsor_logo": "https://themedox.com/mykd/wp-content/uploads/2023/10/tournament_thumb02.png",
+    "live_time": "18:00 - 22:00",
+    "live_link": "https://www.youtube.com/watch?v=r6LxWRdXaJs",
+    "isOnline": false,
+    "top_three_players": [
+      {
+        "id": 1,
+        "image": "https://themedox.com/mykd/wp-content/uploads/2023/10/team02.png",
+        "username": "Alley Boss",
+        "wins": 206
+      },
+      {
+        "id": 2,
+        "image": "https://themedox.com/mykd/wp-content/uploads/2023/10/team01.png",
+        "username": "Black Ninja",
+        "wins": 200
+      },
+      {
+        "id": 3,
+        "image": "https://themedox.com/mykd/wp-content/uploads/2023/10/team04.png",
+        "username": "player007",
+        "wins": 200
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "prize": 75000,
+    "title": "Genshin Impact Müsabiqəsi",
+    "status": "aylıq",
+    "place_count": 50,
+    "endDate": "2024-12-31T23:59:59Z",
+    "content": "Excepteur sint occaecat atat non proident, sunt in culpa qui officia deserunt mollit anim id est labor umLor em ipsum dolor amet consteur adiscing Duis elentum solliciin is yaugue euismods Nulla ullaorper. Ipsum is simply dummy text of printing and typeetting industry. Lorem Ipsum has been the industry's standsaard sipiscing Duis elementum solliciin. Duis aute irure dolor in repderit in voluptate velit esse cillum dolorliq commodo consequat.",
+    "quote": "Duis elentum solliciin is yaugue euismods Nulla ullaorper. Ipsum is simply dummy text of printing and typeetting industry.",
+    "promo": "https://www.youtube.com/watch?v=r6LxWRdXaJs",
+    "sponsor": "SPARTAN IV",
+    "sponsor_logo": "https://themedox.com/mykd/wp-content/uploads/2023/10/tournament_thumb03.png",
+    "live_time": "11:00 - 18:00",
+    "live_link": "https://www.youtube.com/watch?v=r6LxWRdXaJs",
+    "isOnline": true,
+    "top_three_players": [
+      {
+        "id": 1,
+        "image": "https://themedox.com/mykd/wp-content/uploads/2023/10/team02.png",
+        "username": "Alley Boss",
+        "wins": 511
+      },
+      {
+        "id": 2,
+        "image": "https://themedox.com/mykd/wp-content/uploads/2023/10/team01.png",
+        "username": "Black Ninja",
+        "wins": 390
+      },
+      {
+        "id": 3,
+        "image": "https://themedox.com/mykd/wp-content/uploads/2023/10/team03.png",
+        "username": "Gamezer",
+        "wins": 302
+      }
+    ]
+  }
+]
+}
